@@ -17,6 +17,12 @@
       <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-backend-lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers-desktop-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-freetype-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/out" />
-    <output-test url="file:///test/eirenicon" />
+    <output-test url="file:///test/labyrinth" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
@@ -12,7 +12,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="libs" level="project" />
     <orderEntry type="library" name="scala-sdk-2.12.1" level="application" />
-    <orderEntry type="module" module-name="antiqua" />
     <orderEntry type="module" module-name="gleany" />
+    <orderEntry type="module" module-name="antiqua" />
   </component>
 </module>
