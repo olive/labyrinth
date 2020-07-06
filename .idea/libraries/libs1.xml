@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/antiqua/libs/shapeless_2.11-2.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/antiqua/libs/scalaz-core_2.11-7.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/antiqua/libs/shapeless_2.11-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/antiqua/libs/scalaz-core_2.11-7.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -18,7 +18,7 @@ object Main {
       val WindowSize: Point2i = Point2i(Game.Cols*16,Game.Rows*16)
       val DisplayMode: Int = 0
     }, false)
-    val config = new GleanyConfig(settings, "Eirenicon", iconPaths)
+    val config = new GleanyConfig(settings, "Labyrinth", iconPaths)
     val pathResolver = new PathResolver(
       "fonts",
       "sprites",

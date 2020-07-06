@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-freetype-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers-desktop-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers-desktop-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-freetype-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-backend-lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-freetype.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-backend-lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-backend-lwjgl-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers-desktop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gleany/gleany/libs/gdx-controllers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
